@@ -10,7 +10,7 @@
 #include <ostream>
 #include <iostream>
 #define REDUNDANCY_LEVEL 1
-#include "/home/kiron/CLionProjects/NGPS/source/sysDefs.h"
+#include "sysDefs.h"
 
 #define PORT    20001
 #define MAXLINE 1024
